@@ -13,3 +13,8 @@ pip install PyOpenGL PyOpenGL_accelerate glfw Pillow numpy PyGLM
 ```
 python main.py
 ```
+
+## Google Drive:
+```
+https://drive.google.com/file/d/1m-bE6Mawc0W1px41DhFRouNd5Vup61op/view?usp=sharing
+```
